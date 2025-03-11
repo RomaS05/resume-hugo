@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://romas05.github.io/resume-hugo/
 languageCode: en-us
 build:
   writeStats: true
