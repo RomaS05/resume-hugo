@@ -1,4 +1,4 @@
-baseURL: https://romas05.github.io/resume-hugo/
+baseURL: https://RomaS05.github.io/resume-hugo/
 languageCode: en-us
 build:
   writeStats: true
@@ -47,7 +47,7 @@ params:
     title: Обо мне
     icon: fas fa-user
     description: Студент 4-го курса ПС
-  experience:
+  experience: 
     title: Опыт работы
     icon: fas fa-briefcase
     list:
@@ -63,13 +63,13 @@ params:
     list:
       - title: Проект 1
         url: "#"
-        description: Описание проекат
+        description: Описание проекта
       - title: Проект 2
         url: "#"
-        description: Описание проекат
+        description: Описание проекта
       - title: Проект 3
         url: "#"
-        description: Описание проекат
+        description: Описание проекта
       - title: Проект 4
         url: "#"
-        description: Описание проекат
+        description: Описание проекта
